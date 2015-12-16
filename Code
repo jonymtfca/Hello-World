@@ -1,4 +1,9 @@
 printf("Hello World");
 //Some comments about the code
 
+<<<<<<< HEAD
 And here some more shit
+=======
+
+aaaaaa
+>>>>>>> origin/master
